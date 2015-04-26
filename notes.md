@@ -11,7 +11,9 @@ Benutzer müssen sich anmelden, wird untersucht.
 * Journal schreiben
 * Freilassen
 * Registrieren
-* Jagen (manuell, über Geolocation bzw. halbmanuell weil Releasezones nicht georeferenziert sind)
+* Jagen 
+** manuell
+** über Geolocation bzw. halbmanuell weil Releasezones nicht georeferenziert sind
 * PM schreiben
 * Buch über BCID anschauen
 * Profil/Shelf eines Benutzers anschauen
