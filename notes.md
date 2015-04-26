@@ -1,22 +1,22 @@
 # Unsortierte Notizen
 
 ## i18n
-Mehrsprachigkeit wird vorgesehen, Umsetzung erfolgt später. Erstmal Fuktionsaufruf mit Defaulttext statt festem Text im Code.
+Mehrsprachigkeit wird vorgesehen, Umsetzung erfolgt spÃ¤ter. Erstmal Fuktionsaufruf mit Defaulttext statt festem Text im Code.
 
 ##  Anmeldung
-Benutzer müssen sich anmelden, wird untersucht.
+Benutzer mÃ¼ssen sich anmelden, wird untersucht.
 
 ## Features
 * Benutzerwechsel
 * Journal schreiben
 * Freilassen
 * Registrieren
-* Jagen (manuell, über Geolocation bzw. halbmanuell weil Releasezones nicht georeferenziert sind)
+* Jagen (manuell, Ã¼ber Geolocation bzw. halbmanuell weil Releasezones nicht georeferenziert sind)
 * PM schreiben
-* Buch über BCID anschauen
+* Buch Ã¼ber BCID anschauen
 * Profil/Shelf eines Benutzers anschauen
-* Suche nach Büchern/im Regal (ganz niedrige Priorität)
-* Forum (ganz niedrige Priorität)
+* Suche nach BÃ¼chern/im Regal (ganz niedrige PrioritÃ¤t)
+* Forum (ganz niedrige PrioritÃ¤t)
 
 ## Technologie
 * Bibliotheken (jQuery, Sencha Touch, ...)
